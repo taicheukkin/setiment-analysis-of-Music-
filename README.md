@@ -15,9 +15,15 @@ Sentiment analysis has widely applied to examine the sentiment of customers impl
 
 -Jupyter file involving web scrawling of 5024 comments from 100 Sad Song,calculation of emotion and sentiment scores by text2emotion and Vader .
 
+
+
 # Output_file
 
-- csv file involving 5174 rows of comments and ro
+- csv file involving 5174 rows of comments from rommance song and column involving text and calculation of emotion and sentiment score
 
+-csv file involving 100 rommance song and column involving statistic(viewcount,likecount,commentcount) and information(song_name,song_title) and calculation of average emotion and sentiment score of youtube video
 
+- csv file involving 5024 rows of comments from sad song and column involving text and calculation of emotion and sentiment score
+
+-csv file involving 100 rommance song and column involving statistic(viewcount,likecount,commentcount) and information(song_name,song_title) and calculation of average emotion and sentiment score of youtube video
 
