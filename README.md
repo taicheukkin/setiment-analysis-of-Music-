@@ -27,3 +27,12 @@ Sentiment analysis has widely applied to examine the sentiment of customers impl
 
 -csv file involving 100 rommance song and column involving statistic(viewcount,likecount,commentcount) and information(song_name,song_title) and calculation of average emotion and sentiment score of youtube video
 
+
+
+# Powerbi file
+
+- build the snowflake schema in the model view to create filter
+
+- build the 3 dashboard demonstrate the relationship between emotion and sentiment score in both video and comment level 
+
+
