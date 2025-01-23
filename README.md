@@ -47,9 +47,22 @@ snowflake design for sad song
 ![image](https://github.com/user-attachments/assets/28d2898c-3939-4f8c-b536-d0fc58e1f42d)
 
 
+-  create measure for counting Sentiment Category and applying "and" logic to the emotion intensity slicers 
+
+dax_function for sad song
+![image](https://github.com/user-attachments/assets/37e56347-576c-47e9-97c8-23c08168a2d6)
+
+dax function for rommance song 
+![image](https://github.com/user-attachments/assets/7175331a-8849-449b-b97b-9b477a7d8784)
+
 - build the 3 dashboard demonstrate the relationship between emotion and sentiment score in both video and comment level 
 
 emotion and sentiment analysis of youtube_video
 ![image](https://github.com/user-attachments/assets/25e6e828-2b1c-4df6-89ad-ba553807c3be)
 
-![image](https://github.com/user-attachments/assets/55d937f2-3f06-4c5d-879a-58863021f11f)
+emotion and sentiment analysis of rommance_video level
+![image](https://github.com/user-attachments/assets/94af2e54-7e95-4366-be76-b429607f7c0d)
+
+emotion and sentiment analysis of sad_video level
+![image](https://github.com/user-attachments/assets/d6bbca10-0701-4b59-a320-340d2e8cde47)
+
