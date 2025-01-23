@@ -58,11 +58,33 @@ dax function for rommance song
 - build the 3 dashboard demonstrate the relationship between emotion and sentiment score in both video and comment level 
 
 emotion and sentiment analysis of youtube_video
-![image](https://github.com/user-attachments/assets/25e6e828-2b1c-4df6-89ad-ba553807c3be)
+![image](https://github.com/user-attachments/assets/da35fae4-94f7-4b6a-b29f-6ed3d61ef841)
+
 
 emotion and sentiment analysis of rommance_video level
 ![image](https://github.com/user-attachments/assets/94af2e54-7e95-4366-be76-b429607f7c0d)
 
 emotion and sentiment analysis of sad_video level
 ![image](https://github.com/user-attachments/assets/d6bbca10-0701-4b59-a320-340d2e8cde47)
+
+# Implication
+
+# In video level
+![image](https://github.com/user-attachments/assets/072f44c9-b464-41dd-b5ac-baa36f10483b)
+
+mildly positive sentiment category is the only sentiment category in 100 rommance song video. 
+- It implied the distribution of sentiment score is narrowed in the video level
+
+mild negative sentiment were occupied half of whole sentiment catory in 100 sad_song_video. In addition, sad emotion were the highest frequency and proportion of intense category among other emotion.   
+- It implied the Negative sentiment are associated the people's sad feeling aroused from the song.
+
+# comment level
+
+
+
+
+
+
+
+
 
