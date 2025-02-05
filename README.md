@@ -30,7 +30,9 @@ sad_song.ipynb
 sad_song_comment.ipynb
 -Jupyter file involving web scrawling of 5024 comments from 100 Sad Song,calculation of emotion and sentiment scores by text2emotion and Vader .
 
+**It is noted that the youtube V3 api key was stored at the external json file for the protection of privacy**
 
+**please use your own youtube V3 api key instead**
 
 # Output_file
 rommance_song_ytcomment.csv
