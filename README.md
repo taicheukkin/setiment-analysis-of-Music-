@@ -54,19 +54,23 @@ sad_song_ytvideo_statistics.csv
 - build the snowflake schema in the model view to reduce data redundancy and storage efficiency
   
 snowflake design for rommance song
-![image](https://github.com/user-attachments/assets/3e43d9b9-9ecf-4323-a13e-4eebf69e0936)
+<img width="1167" height="842" alt="image" src="https://github.com/user-attachments/assets/0f31bb62-1f3f-43e3-8b97-3af72f90adbb" />
+
 
 snowflake design for sad song
-![image](https://github.com/user-attachments/assets/28d2898c-3939-4f8c-b536-d0fc58e1f42d)
+<img width="1353" height="809" alt="image" src="https://github.com/user-attachments/assets/e221dba6-be02-438d-93ff-2b812691e815" />
+
 
 
 -  create measure for counting Sentiment Category and applying "and" logic to the emotion intensity slicers 
 
 dax_function for sad song
-![image](https://github.com/user-attachments/assets/37e56347-576c-47e9-97c8-23c08168a2d6)
+<img width="1258" height="770" alt="image" src="https://github.com/user-attachments/assets/95658a18-5b72-46ba-9adb-9ea6f4b27dc9" />
+
 
 dax function for rommance song 
-![image](https://github.com/user-attachments/assets/7175331a-8849-449b-b97b-9b477a7d8784)
+<img width="1353" height="809" alt="image" src="https://github.com/user-attachments/assets/bece6a76-ff4a-4d1c-9117-c9c9c6325446" />
+
 
 - build the 3 dashboard demonstrate the relationship between emotion and sentiment score in both video and comment level 
 
